@@ -1,0 +1,23 @@
+*{
+	font-family: arial;
+}
+ body{
+ 	background-color: black
+ }
+ #store-name{
+ 	color:white;
+ 	text-align: center;
+ }
+ #divs{
+ 	text-align: center;
+ 	color: red;
+ }
+ .h3{
+ 	color:pink;
+ 	font-size: 40px
+ }
+ .p{
+ 	color:white;
+ 	font-size: 80px
+ }
+ 
