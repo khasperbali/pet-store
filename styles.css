@@ -1,8 +1,6 @@
-*{
-	font-family: arial;
-}
  body{
  	background-color: black
+ 	font-size: 20px;
  }
  #store-name{
  	color:white;
