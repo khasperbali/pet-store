@@ -1,20 +1,26 @@
- body{
- 	background-color: black
- 	font-size: 20px;
- }
- #store-name{
- 	color:white;
- 	text-align: center;
- }
- #individual-pets{
- 	text-align: center;
- 	color: red;
- }
- .h3{
- 	color:pink;
- 	font-size: 40px
- }
- .p{
- 	color:white;
- 	font-size: 80px
- }
+body {
+    background-color: black;
+}
+h1 {
+	color: blue;
+	text-align: center;
+	font-family: comic sans ms;
+}
+h3 {
+    color: red;
+    text-align: center;
+    font-family: serif;
+    font-size: 50px
+}
+p {
+    color: purple;
+    text-align: center;
+    font-size: 32px
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 600px;
+}
