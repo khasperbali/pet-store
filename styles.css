@@ -1,20 +1,20 @@
- body{
- 	background-color: black
- 	font-size: 20px;
- }
- #store-name{
- 	color:white;
- 	text-align: center;
- }
- #individual-pets{
- 	text-align: center;
- 	color: red;
- }
- .h3{
- 	color:pink;
- 	font-size: 40px
- }
- .p{
- 	color:white;
- 	font-size: 80px
- }
+body {
+    background-color: pink;
+}
+h1 {
+	color: purple;
+	text-align: center;
+}
+h3 {
+    color: blue;
+    text-align: center;
+}
+p {
+    color: blue;
+    text-align: center;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
