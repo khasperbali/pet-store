@@ -1,19 +1,19 @@
 body {
-    background-color: pink;
+    background-color: black;
 }
 h1 {
-	color: purple;
+	color: red;
 	text-align: center;
 	font-family: comic sans ms;
 }
 h3 {
-    color: yellow;
+    color: red;
     text-align: center;
     font-family: serif;
     font-size: 50px
 }
 p {
-    color: blue;
+    color: purple;
     text-align: center;
     font-size: 32px
 }
